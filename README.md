@@ -8,9 +8,9 @@ I love building real-world solutions that combine **machine learning models** an
 
 ## 🚀 **Projects**
 
-- 🌾 **[Crop Disease Detection System](#)** – Detects paddy leaf diseases using CNN and provides remedies with AI integration.
-- 🧠 **[Criminal Record Management](#)** – Uses BERT, LightGBM, and KMeans for crime classification, reoffending prediction, and geo-clustering.
-- 🎟️ **[Event Management & Attendance Tracking](#)** – QR code-based registration and attendance system with insightful analytics.
+- 🌾 **[Crop Disease Detection System](https://github.com/Saigopalvarma/crop_disease_management)** – Detects paddy leaf diseases using CNN and provides remedies with AI integration.
+- 🧠 **[Criminal Record Management](https://github.com/Saigopalvarma/criminal-record-management)** – Uses BERT, LightGBM, and KMeans for crime classification, reoffending prediction, and geo-clustering.
+- 🎟️ **[Event Management & Attendance Tracking]()** – QR code-based registration and attendance system with insightful analytics.
 
 > *“I believe in creating solutions that bridge AI and people’s daily lives.”*
 
