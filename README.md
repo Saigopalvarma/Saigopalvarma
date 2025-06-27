@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Sai Gopalvarma
 
-💡 **AIML Student | MERN Stack Developer | AI Integration Enthusiast**
+💡 **AIML Student | Full Stack Developer | AI Integration Enthusiast**
 
 I love building real-world solutions that combine **machine learning models** and **full-stack web development** to create meaningful impact.
 
@@ -18,18 +18,22 @@ I love building real-world solutions that combine **machine learning models** an
 
 ## 🛠️ **Skills**
 
-**Languages**: Python, JavaScript, C++  
-**Frameworks & Libraries**: React.js, Node.js, Express.js, Flask  
-**ML/AI**: TensorFlow, Keras, LightGBM, BERT  
+**Languages**: Python, JavaScript, C++ ,Java 
+**Frameworks & Libraries**: React.js, Flask  
+**ML/AI**: TensorFlow, Keras, LightGBM, BERT,Kmeans  
 **Databases**: MongoDB Atlas  
-**Tools & Platforms**: Git, VSCode, Figma
+**Tools & Platforms**: Git, VSCode
 
 ---
 
+
+
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saigopalvarma&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saigopalvarma&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saigopalvarma&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="210" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saigopalvarma&layout=compact&theme=radical" alt="Top Languages" width="400" height="200"/>
+</div>
 
 
 ---
